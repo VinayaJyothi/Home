@@ -1,0 +1,244 @@
+
+
+.color-bg {
+    color:black;
+    font-size:35px;
+    background:#0099cc;
+    height:50vh;
+    text-align:center;
+}
+.content {
+    color: #0099cc;
+    font-size:35px;
+    background: #b3ecff;
+    height:50vh;
+    text-align:center;
+}
+.empty {
+    color: black;
+    font-style:italic;
+    background-image:url('https://wallpapercave.com/wp/IXxHHzD.jpg');
+    background-size:cover;
+    background-position: center;
+    height:50vh;
+
+}
+.image {
+    color: black;
+    font-size:35px;
+    background-image:url('https://wallpapercave.com/wp/IXxHHzD.jpg');
+    background-size:cover;
+    background-position: center;
+    height:50vh;
+    text-align:center;
+}
+.storybook-button {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    border: 0;
+    border-radius: 3em;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+  }
+  .storybook-button--primary {
+    color: white;
+    background-color: #1ea7fd;
+  }
+  .storybook-button--secondary {
+    color: #333;
+    background-color: transparent;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+  }
+  .storybook-button--small {
+    font-size: 12px;
+    padding: 10px 16px;
+  }
+  .storybook-button--medium {
+    font-size: 14px;
+    padding: 11px 20px;
+  }
+  .storybook-button--large {
+    font-size: 16px;
+    padding: 12px 24px;
+  }
+.date {
+    color:black;
+    font-size:20px;
+}
+.month {
+    color:black;
+    font-size:20px;
+}
+.time {
+    font-size:20px;
+    color:black;
+}
+.week {
+    font-size:20px;
+    color:black;
+}
+.textbox {
+    color:black;
+    font-size:25px;
+}
+.submit {
+    color:black;
+    width:80px;
+    height:40px;
+}
+
+.wrapper {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  h1 {
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 1;
+    margin: 1px 0 3px 10px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  button + button {
+    margin-left: 10px;
+  }
+  
+.textbox {
+  color:black;
+  font-size:20px;
+}
+
+.dash {
+    color:black;
+    font-size:35px;
+
+}
+.no-dash {
+    color: black;
+    font-size:35px;
+    text-decoration:none;
+}
+.with-color {
+    color: #0099cc;
+    font-size:35px;
+    font-style:italic;
+}
+
+.radio {
+    color:blue;
+    font-size:30px;
+}
+.checkbox {
+    color:black;
+    font-size:30px;
+}
+
+section {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 48px 20px;
+    margin: 0 auto;
+    max-width: 600px;
+    color: #333;
+  }
+  
+  section h2 {
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 1;
+    margin: 0 0 4px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  section p {
+    margin: 1em 0;
+  }
+  
+  section a {
+    text-decoration: none;
+    color: #1ea7fd;
+  }
+  
+  section ul {
+    padding-left: 30px;
+    margin: 1em 0;
+  }
+  
+  section li {
+    margin-bottom: 8px;
+  }
+  
+  section .tip {
+    display: inline-block;
+    border-radius: 1em;
+    font-size: 11px;
+    line-height: 12px;
+    font-weight: 700;
+    background: #e7fdd8;
+    color: #66bf3c;
+    padding: 4px 12px;
+    margin-right: 10px;
+    vertical-align: top;
+  }
+  
+  section .tip-wrapper {
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  section .tip-wrapper svg {
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    margin-right: 4px;
+    vertical-align: top;
+    margin-top: 3px;
+  }
+  
+  section .tip-wrapper svg path {
+    fill: #1ea7fd;
+  }
+  
+.text {
+    border:none;
+    color:white;
+    padding:15px 32px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:35px;
+    border-radius:5px;
+}
+
+.sample {
+    color:black;
+    font-size:35px;
+}
+.color {
+    color: #0099cc;
+    font-size:35px;
+}
+.style {
+    color: black;
+    font-size:35px;
+    font-style:italic;
+}
+.font {
+    color: black;
+    font-size:35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+  
+
+/*# sourceMappingURL=main.9d18ae11.css.map*/
